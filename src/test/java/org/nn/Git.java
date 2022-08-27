@@ -10,8 +10,7 @@ public class Git {
 	
 	public static void main(String[] args) {
 		
-		WebDriverManager.chromedriver().setup();
-		WebDriver driver = new ChromeDriver();
+	
 		
 		System.out.println("sd");
 		
@@ -23,7 +22,11 @@ public class Git {
 		
 		System.out.println("banana");
 		
+		System.out.println("nandha");
+		
 		System.out.println("rajesh");
+
+
 		
 	}
 }
